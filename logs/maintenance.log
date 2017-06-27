@@ -1,0 +1,10 @@
+DEBUG | 2017-06-26 00:09:07 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:29) - ProdMachine Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\prodmachines.json
+DEBUG | 2017-06-26 09:16:15 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:29) - ProdMachine Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\prodmachines.json
+DEBUG | 2017-06-26 09:19:13 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:29) - ProdMachine Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\prodmachines.json
+INFO  | 2017-06-26 09:20:46 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:48) - ProdMachine (HSC1044) has been added!
+DEBUG | 2017-06-26 09:30:31 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:29) - ProdMachine Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\prodmachines.json
+DEBUG | 2017-06-26 09:31:54 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:29) - ProdMachine Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\prodmachines.json
+DEBUG | 2017-06-26 09:33:24 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:29) - ProdMachine Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\prodmachines.json
+DEBUG | 2017-06-26 09:35:40 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:29) - ProdMachine Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\prodmachines.json
+DEBUG | 2017-06-26 09:57:15 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:29) - ProdMachine Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\prodmachines.json
+DEBUG | 2017-06-26 09:59:14 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:29) - ProdMachine Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\prodmachines.json

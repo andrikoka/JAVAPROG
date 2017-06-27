@@ -1,0 +1,8 @@
+[{"serialNo":"BOS001","manufacturer":"BOSCH","machineType":"conveyor","generation":2,"numberOfProductsPerHour":1550},
+{"serialNo":"SAT001","manufacturer":"SATISLOH","machineType":"blocker","generation":1,"numberOfProductsPerHour":160},
+{"serialNo":"SCH001","manufacturer":"SCHNEIDER","machineType":"generator","generation":3,"numberOfProductsPerHour":190},
+{"serialNo":"MEI001","manufacturer":"MEI","machineType":"edger","generation":2,"numberOfProductsPerHour":125},
+{"serialNo":"ANR001","manufacturer":"AR","machineType":"quality","generation":2,"numberOfProductsPerHour":200},
+{"serialNo":"SCL001","manufacturer":"SCL","machineType":"dipcoating","generation":1,"numberOfProductsPerHour":230},
+{"serialNo":"LEY001","manufacturer":"LEYBOLD","machineType":"arcoating","generation":1,"numberOfProductsPerHour":86},
+{"serialNo":"SCH001","manufacturer":"SCHNEIDER","machineType":"generator","generation":3,"numberOfProductsPerHour":500}]
