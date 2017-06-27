@@ -25,7 +25,7 @@ import hu.uni.miskolc.iit.java.technologies.maintenance.api.service.ProdMachineM
 import hu.uni.miskolc.iit.java.technologies.maintenance.api.service.exceptions.UnknownProdMachineException;
 
 /**
- * Hello world!
+ * Hello world! Jo szerencset!
  *
  */
 public class App {
@@ -68,12 +68,12 @@ public class App {
 	}
 
 	private static void listProdMachines() {
-		final int tableWidth = 50;
+		final int tableWidth = 90;
 		printHorisontalLine(tableWidth);
-		System.out.println("| SerialNo | Manufacturer | machineType | # Generation | Number Of Products Per Hour |");
+		System.out.println("| SerialNo | Manufacturer | 	machineType | # Generation | Number Of Products Per Hour |");
 		printHorisontalLine(tableWidth);
 		for (ProdMachine prodmachine : prodmachineManager.listProdMachines()) {
-			System.out.println(String.format("| %1$7s | %2$8s | %3$5s | %4$7d | %5$11d |", prodmachine.getSerialNo(),
+			System.out.println(String.format("| %1$7s | 	%2$8s | 	%3$5s | 	%4$7d | 	%5$11d 		|", prodmachine.getSerialNo(),
 					prodmachine.getManufacturer(), prodmachine.getMachineType(), prodmachine.getGeneration(), prodmachine.getNumberOfProductsPerHour()));
 			printHorisontalLine(tableWidth);
 		}
@@ -104,18 +104,18 @@ public class App {
 	}
 
 	private static void printMaintenances(Collection<Maintenance> maintenances) {
-		final int tableWidth = 80;
+		final int tableWidth = 200;
 		printHorisontalLine(tableWidth);
 		System.out.println(
-				"| 						ProdMachine							 | 	Price			 | Start Date | Expire Date | open  |");
+				"| 			ProdMachine			| 			|		 | 	Price			| 		 Start Date | 			Expire Date | 	open  |");
 		System.out.println(
-				"| SerialNo | Manufacturer | MachineType | # Generation | Number Of Products Per Hour | Amount | Currency |			  |		        |       |");
+				"| SerialNo | Manufacturer 	| 	MachineType | 	 	Generation | Number Of Products Per Hour | Amount | Currency 									       |");
 		printHorisontalLine(tableWidth);
 		for (Maintenance maintenance : maintenances) {
 			ProdMachine prodmachine = maintenance.getProdMachine();
 			Price price = maintenance.getPrice();
 			System.out.println(String.format(
-					"| %1$7s | %2$8s | %3$5s | %4$7d | %5$11d | %6$5.2f | %7$8s | %8$10s | %9$5s | %10$5s |",
+					"| %1$7s | 	%2$8s 	| %3$5s 		|	 %4$7d |	 %5$11d | 		%6$5.2f | %7$8s 	| %8$10s | %9$5s | %10$5s |",
 					prodmachine.getSerialNo(), prodmachine.getManufacturer(), prodmachine.getMachineType(), prodmachine.getGeneration(), prodmachine.getNumberOfProductsPerHour(),
 					price.getAmount(), price.getCurrency().toString(), maintenance.getStartDate().toString(),
 					maintenance.getExpirationDate().toString(), maintenance.openMaintenance()));
