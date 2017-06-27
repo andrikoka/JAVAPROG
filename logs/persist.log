@@ -1,37 +1,3 @@
-DEBUG | 2017-06-24 20:37:25 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 20:38:56 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 20:43:55 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 20:46:18 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 20:46:29 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-FATAL | 2017-06-24 20:46:32 | [main] persist.CarDAOJSON (CarDAOJSON.java:66) - IOException occured due to resources\cars.json (A rendszer nem találja a megadott elérési utat)
-DEBUG | 2017-06-24 20:52:30 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-FATAL | 2017-06-24 20:52:35 | [main] persist.CarDAOJSON (CarDAOJSON.java:66) - IOException occured due to resources\cars.json (A rendszer nem találja a megadott elérési utat)
-DEBUG | 2017-06-24 20:57:08 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-FATAL | 2017-06-24 20:57:11 | [main] persist.CarDAOJSON (CarDAOJSON.java:66) - IOException occured due to resources\cars.json (A rendszer nem találja a megadott elérési utat)
-DEBUG | 2017-06-24 21:01:35 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-FATAL | 2017-06-24 21:01:39 | [main] persist.CarDAOJSON (CarDAOJSON.java:66) - IOException occured due to resources\cars.json (A rendszer nem találja a megadott elérési utat)
-DEBUG | 2017-06-24 21:08:37 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-FATAL | 2017-06-24 21:08:41 | [main] persist.CarDAOJSON (CarDAOJSON.java:66) - IOException occured due to resources\cars.json (A rendszer nem találja a megadott elérési utat)
-DEBUG | 2017-06-24 21:16:53 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 21:26:55 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 21:27:43 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 21:28:35 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 21:29:16 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 21:29:40 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-INFO  | 2017-06-24 21:30:59 | [main] persist.CarDAOJSON (CarDAOJSON.java:48) - Car (KLM001) has been added!
-DEBUG | 2017-06-24 21:39:16 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 21:39:54 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 21:41:58 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 21:45:16 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-24 21:47:55 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-INFO  | 2017-06-24 21:48:24 | [main] persist.CarDAOJSON (CarDAOJSON.java:48) - Car (KNV834) has been added!
-DEBUG | 2017-06-24 21:50:33 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-25 21:16:24 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-INFO  | 2017-06-25 21:31:45 | [main] persist.CarDAOJSON (CarDAOJSON.java:48) - Car (IUA458) has been added!
-DEBUG | 2017-06-25 21:51:05 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-25 22:15:20 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-25 22:15:59 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
-DEBUG | 2017-06-25 22:16:40 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\cars.json
 DEBUG | 2017-06-26 00:09:07 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:29) - ProdMachine Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\prodmachines.json
 DEBUG | 2017-06-26 09:16:15 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:29) - ProdMachine Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\prodmachines.json
 DEBUG | 2017-06-26 09:19:13 | [main] persist.ProdMachineDAOJSON (ProdMachineDAOJSON.java:29) - ProdMachine Databse : C:\java-neon\AMWORKSPACE\ProductionMachines\resources\prodmachines.json
